@@ -11,7 +11,7 @@ const b3 = document.getElementById('b3')
 const historia = () => {
   Swal.fire({
   title: 'Creatividad, perseverancia y curiosidad',
-  text: 'Soy una desarrolladora front-end en constante construcción. Además profesora de música y madre. Amo estudiar y aprender',
+  text: 'Soy una desarrolladora Front-End en constante construcción. Además profesora de música y madre. Amo estudiar y aprender',
   width: 800,
   imageUrl: 'img/myAvatar.png',
   imageWidth: 200,
