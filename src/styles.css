@@ -101,7 +101,7 @@ footer{
 .typewriter h1 {
   color: rgb(28, 27, 27);
   background-color: #908f8f;
-  border: solid #42F2A1;
+  border: solid #42F2A1 2px;
   font-family: 'Shadows Into Light', cursive;
   font-size: 2.4em;
   padding: 1%;
