@@ -37,7 +37,7 @@ const motivacion = () => {
   imageAlt: 'Custom image',
   padding: '3em',
   color: '#ff7675',
-  background: '#000033',
+  background: '#572364',
   })
 
 }
@@ -54,10 +54,10 @@ const proyectos = () => {
   imageAlt: 'Custom image',
   padding: '3em',
   color: '#ff7675',
-  background: '#000077',
+  background: '#494949',
   }).then((result) => {
     if (result.isConfirmed) {
-      location = "https://scl-019-burger-queen-1jge4qeom-mayorlen.vercel.app"
+      location = "https://wimpy-burger.vercel.app"
     }
   })
 
