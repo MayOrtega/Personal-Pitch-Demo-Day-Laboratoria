@@ -57,7 +57,7 @@ const proyectos = () => {
   background: '#000077',
   }).then((result) => {
     if (result.isConfirmed) {
-      location = "https://scl-019-burger-queen-sage.vercel.app"
+      location = "https://scl-019-burger-queen-1jge4qeom-mayorlen.vercel.app"
     }
   })
 
