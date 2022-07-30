@@ -47,7 +47,7 @@ const proyectos = () => {
   Swal.fire({
     title: 'Experiencias',
   text: 'En Laboratoria desarrollé varios proyectos en los que desarrollé mucho más que habilidades técnicas',
-  width: 800,
+  width: 2000,
   imageUrl: 'img/pilonAnimado.gif',
   imageWidth: 200,
   imageHeight: 200,
